@@ -1,0 +1,73 @@
+body {
+  display: block;
+  background-image: url("./img/fondoindex.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+img {
+  display: block;
+  margin: 10px;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  padding: auto;
+}
+.text {
+  display: block;
+  margin: 0;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0;
+  margin: auto;
+  color: white;
+  border: 2px double white;
+  width: 650px;
+  background-color: rgba(36, 33, 33, 0.521);
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif,
+    Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.text a {
+  color: white;
+}
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-style: italic;
+  margin: auto;
+  padding: auto;
+  margin-top: 20px;
+  color: white;
+}
+footer a {
+  text-decoration: none;
+  color: white;
+}
+footer p {
+  border: 1px dotted;
+  background-color: rgba(20, 19, 19, 0.788);
+  margin: 10px;
+  padding: 10px;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  width: 250px;
+}
+img {
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  margin: auto;
+  padding: 50px;
+}
+.enter {
+  font-size: 20px;
+  border: 1px solid black;
+}

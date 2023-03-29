@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Juego del ahorcado</title>
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content: center;
+        align-items: center;
+      }
+      canvas {
+        display: flex;
+        border: 1px solid black;
+        box-shadow: 0px 0px 5px 3px rgba(0, 0, 0, 0.55);
+        justify-content: center;
+        align-items: center;
+      }
+      #palabra {
+        display: flex;
+        gap: 15px;
+        align-items: center;
+        justify-content: center;
+        vertical-align: middle;
+      }
+
+      .letra {
+        font-size: 45px;
+        border-bottom: 4px solid black;
+        margin: auto;
+      }
+      input{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+
+      }
+
+      .ocultar{
+        color: transparent;
+      }
+
+
+      
+    </style>
+  </head>
+  <body>
+    <canvas id="myCanvas" width="600" height="350"></canvas>
+    <div id="palabra"></div>
+    <script src="canvas.js"></script>
+  </body>
+</html>

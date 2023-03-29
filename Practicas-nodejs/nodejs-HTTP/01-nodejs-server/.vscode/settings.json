@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/cae9ca11-c04e-4668-b63b-a172f4372f86/resourceGroups/cifplalaboral/providers/Microsoft.Web/sites/cifpnodejs",
+    "appService.deploySubpath": ""
+}

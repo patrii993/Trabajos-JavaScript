@@ -1,0 +1,61 @@
+[
+    {
+        "id":"0",
+        "nombre":"gato",
+        "imagen":"gato.jpg",
+        "familia":"Felis Silvestris"
+    },
+    {
+        "id":"1",
+        "nombre":"perro",
+        "imagen":"perro.jpg",
+        "familia":"Canis"
+    },
+    {
+        "id":"2",
+        "nombre":"cerdo",
+        "imagen":"cerdo.jpg",
+        "familia":"Suidae"
+    },
+    {
+        "id":"3",
+        "nombre":"caballo",
+        "imagen":"caballo.jpg",
+        "familia":"Equus"
+    },
+    {
+        "id":"4",
+        "nombre":"panda",
+        "imagen":"panda.jpg",
+        "familia":"Ursidae"
+    },
+    {
+        "id":"5",
+        "nombre":"jirafa",
+        "imagen":"jirafa.jpg",
+        "familia":"Giraffidae"
+    },
+    {
+        "id":"6",
+        "nombre":"quokka",
+        "imagen":"quokka.jpg",
+        "familia":"Macropodidae"
+    },
+    {
+        "id":"7",
+        "nombre":"leon",
+        "imagen":"leon.jpg",
+        "familia":"Panthera Leo"
+    },
+    {
+        "id":"8",
+        "nombre":"conejo",
+        "imagen":"conejo.jpg",
+        "familia":"Leporidae"
+    }, {
+        "id":"9",
+        "nombre":"chinchilla",
+        "imagen":"chinchilla.jpg",
+        "familia":"Roedor"
+    }
+]

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es-es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Productos</title>
+    <link
+      rel="shortcut icon"
+      href="https://api.iconify.design/mdi/nintendo-switch.svg"
+      type="image/x-icon"
+    />
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+    <script src="productos.js"></script>
+    <link rel="stylesheet" href="productos.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="navi">
+        <ul>
+          <li class="logo">
+            <img src="img/logo.png" alt="La tienda de nana" />
+          </li>
+          <li class="nav-list">
+            <a href="index.html">Inicio</a>
+          </li>
+          <li>
+            <a href="productos.html">Videojuegos</a>
+          </li>
+          <li class="c-u"> 
+            <div class="car"></div>
+          <img
+              class="carrito"
+              src="https://api.iconify.design/ic/round-shopping-bag.svg"
+              alt="carrito"
+            />
+          </li>
+          </div>
+        </ul>
+      </nav>
+    </header>
+    <div class="carro-content invisible"></div>
+    <div class="videojuego"></div>
+    <footer>
+      <p>La Tienda de Nana S.L<br>
+      <a href="index.html">latiendadenana@ejemplo.com</a></p>
+    </footer>
+
+    <!-- <script>
+     
+      var mapa = new Map();
+      const carrito= document.querySelector(".carro-content");
+      function comprar(value) {
+        const producto = document.querySelector("#" + value);
+        const titulo = producto.querySelector("h3").textContent;
+        const precio = producto.querySelector(".precio").textContent;
+        const img= producto.querySelector("img").src;
+       
+        if (mapa.has(value)){
+          let u=mapa.get(value);
+          u[3]++;
+          //console.log(u[2]);
+          mapa.set(value,u);
+        }else{
+        mapa.set(value, [img,titulo, precio, 1]);
+        }
+        pintarCarrito(mapa);
+
+      }
+      var micarrito= new Set();
+      var precio;
+      function pintarCarrito(value){
+        for(const [clave, valor] of mapa){
+          micarrito+=[clave,valor];
+          console.log(clave)
+          precio=parseFloat(valor[2])*parseFloat( valor[3]);
+          var producto=document.createElement()
+
+          // carrito.innerHTML+=`
+          // <li id="${clave}">
+          //   <img src="${valor[0]}" alt=${valor[1]} title=${valor[1]} width:5px height:5px >  ${valor[1]}:${precio} u: ${valor[3]}
+          //    </li>
+          // `
+
+        }
+      }
+    </script> -->
+  </body>
+</html>

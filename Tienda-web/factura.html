@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Factura</title>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"
+      integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <link
+      rel="shortcut icon"
+      href="https://api.iconify.design/mdi/nintendo-switch.svg"
+      type="image/x-icon"
+    />
+    <script src="factura.js"></script>
+    <link rel="stylesheet" href="factura.css" />
+  </head>
+  <body>
+    <div class="botones"><a class="return" href="productos.html">Volver</a><button class="btnpdf"></button></div>
+    <div class="facturacompleta">
+      <div class="empresa"></div>
+      <div class="facturacion"></div>
+      <table>
+        <thead>
+          <tr>
+            <th>Producto</th>
+            <th>Título</th>
+            <th>Unidades</th>
+            <th>IVA</th>
+            <th>Precio/u</th>
+            <th>Precio+IVA</th>
+            <th>Precio total</th>
+          </tr>
+        </thead>
+        <tbody class="container"></tbody>
+      </table>
+      <div class="all"></div>
+      <footer>
+        <p>
+          La Tienda de Nana S.L<br />
+          <a href="index.html">latiendadenana@ejemplo.com</a>
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

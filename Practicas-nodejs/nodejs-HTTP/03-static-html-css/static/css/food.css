@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* Ubicación de la imagen */
+    background-image: url(../images/background-pasta.jpg);
+    /* Nos aseguramos que la imagen de fondo este centrada vertical y horizontalmente en todo momento */
+    background-position: center center;
+    /* La imagen de fondo no se repite */
+    background-repeat: no-repeat;
+    /* La imagen de fondo está fija en el viewport, de modo que no se mueva cuando la altura del contenido supere la altura de la imagen. */
+    background-attachment: fixed;
+    /* La imagen de fondo se reescala cuando se cambia el ancho de ventana del navegador */
+    background-size: cover;
+}
+
+.titulo {
+    font-family: ABeeZee, sans-serif;
+    font-size: 20px;
+    background-color: white;
+    color: #bb3300;
+    background-color: rgba(255, 255, 255, .7);
+    border-top: 50px solid #ff6622;
+    text-align: center;
+    transform: rotate(20deg);
+    grid-area: titulo;
+}
+
+.box {
+    background-color: white;
+    border-left-width: 5px;
+    border-left-style: solid;
+    box-shadow: 15px 15px 10px 0px rgba(107, 97, 107, 0.5);
+}
+
+.box h3 {
+    font-family: Scada, sans-serif;
+    font-size: 22px;
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: white;
+    padding-left: 15px;
+}
+
+.box img {
+    width: 353px;
+    height: 240px;
+}
+
+.ensalada {
+    grid-area: ensalada;
+    border-left-color: #BB0321;
+}
+
+.ensalada h3 {
+    background-color: red;
+}
+
+.hamburguesa {
+    grid-area: hamburguesa;
+    border-left-color: #BEDC6C;
+}
+
+.hamburguesa h3 {
+    background-color: green;
+}
+
+.postre {
+    grid-area: postre;
+    border-left-color: #45d9fd;
+}
+
+.postre h3 {
+    background-color: blue;
+}
+
+.flex-postre {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: space-around;
+}
+
+.grid {
+    margin-top: 20px;
+    margin-left: 20px;
+    display: grid;
+    /* paneles: width: 362px hight: 275px */
+    grid-template-columns: 50px 312px 60px 181px 181px 20px 250px;
+    grid-template-rows: 20px 78px 100px 77px 20px 25px 275px;
+    grid-template-areas: "ensalada ensalada . . . . ." "ensalada ensalada . hamburguesa hamburguesa . ." "ensalada ensalada . hamburguesa hamburguesa . titulo" "ensalada ensalada . hamburguesa hamburguesa . titulo" ". . . hamburguesa hamburguesa . ." ". . . . . . ." ". postre postre postre postre postre .";
+}

@@ -1,0 +1,178 @@
+[{
+    "id":"1",
+    "titulo":"LUIGIS MANSION 3", 
+    "imagen":"LuigisMansion.jpg",
+    "genero":"Aventura",
+    "descripcion":"¡Las vacaciones de ensueño de Luigi se convierten en una pesadilla que te pondrá los pelos de punta en Luigi's Mansion 3 para Nintendo Switch! Luigi se ha embarcado en unas vacaciones de ensueño junto a Mario y sus amigos, tras ser invitados a hospedarse en un lujoso hotel. Sin embargo, lo que prometía ser unas vacaciones inolvidables se convierte enseguida en una pesadilla horrible cuando el Rey Boo revela que todo era una trampa para atrapar a Mario y compañía. Con la ayuda del profesor Fesor, nuestro reacio y cobarde héroe Luigi deberá recorrer de arriba abajo los traicioneros pisos del espeluznante hotel para salvar a los demás.",
+    "precio":"49.99",
+    "moneda":"€"
+},
+{
+    "id":"2",
+    "titulo":"POKEMÓN ESCARLATA",
+    "imagen":"PokemonEscarlata.jpg",
+    "genero":"Aventura, Rol",
+    "descripcion":"Bienvenidos al mundo abierto de la región de Paldea: Atrapa, combate y entrena Pokémon en la región de Paldea, una vasta tierra llena de lagos, cimas montañosas, páramos, poblaciones pequeñas y grandes ciudades. Explora un mundo completamente abierto a tu propio paso y recorre a través de la tierra, el agua y el aire a lomos del Pokémon legendario Koraidon, que puede cambiar de forma en Pokémon Scarlet, o sobre el Pokémon legendario Miraidon, que puede cambiar de forma en Pokémon Violet. Elige entre Sprigatito, Fuecoco o Quaxly para que sea tu primer compañero Pokémon antes de lanzarte en tu aventura a través de Paldea.",
+    "precio":"59.95",
+    "moneda":"€"
+},
+{
+    "id":"3",
+    "titulo":"MARIO KART 8 DELUXE",
+    "imagen":"MarioKart.jpg",
+    "genero":"Carreras",
+    "descripcion":"¡Corre donde quieras, cuando quieras! Calienta motores y prepárate para la versión definitiva de Mario Kart 8. El juego de Mario Kart con más personajes. El juego Mario Kart 8 Deluxe tiene 42 personajes para escoger, ¡La lista de personajes más grande en la historia de la serie!",
+    "precio":"49.99",
+    "moneda":"€"
+},
+{
+    "id":"4",
+    "titulo":"CRASH BANDICOOT 4 ITS ABOUT TIME",
+    "imagen":"CrashBandicoot.jpg",
+    "genero":"Multijugador, Aventura",
+    "descripcion":"Crash se lanza de lleno con tus marsupiales favoritos a una aventura temporal que se cae a pedazos. Neo Cortex y N. Tropy han vuelto a las andadas y esta vez no planean darle la tabarra al universo, ¡su objetivo es el multiverso entero! Crash y Coco tendrán que reunir cuatro máscaras cuánticas y trastocar las leyes de la realidad para salvar el mundo.",
+    "precio":"49.99",
+    "moneda":"€"
+},
+{
+    "id":"5",
+    "titulo":"LABYRINTH OF GALLERIA: THE MOON SOCIETY",
+    "imagen":"LabyrinthOfGalleria.jpg",
+    "genero":"Aventura, Rol",
+    "descripcion":"Bajo la Galleria Manor existe un misterioso laberinto repleto de tesoros. Esta aventura de exploración de mazmorras cuenta con más de 50 horas de laberintos por atravesar y una brigada de brujos personalizada y convertida en tu imparable fuerza enemiga de los monstruos.",
+    "precio":"49.99",
+    "moneda":"€"
+},
+{
+    "id":"6",
+    "titulo":"THEATRHYTHM FINAL BAR LINE",
+    "imagen":"Theatrhythm.jpg",
+    "genero":"Música, Rol",
+    "descripcion":"Un juego de acción rítmica con 385 temas musicales seleccionados de toda la serie FINAL FANTASY.",
+    "precio":"59.99",
+    "moneda":"€"
+},{
+    "id":"7",
+    "titulo":"TALES OF SYMPHONIA REMASTERED",
+    "imagen":"TalesOfSymphonia.jpg",
+    "genero":"Rol",
+    "descripcion":"En un mundo en decadencia, cuenta la leyenda que el Elegido se alzará un día entre el pueblo y la tierra renacerá. El destino de dos mundos entrelazados pende de un hilo.",
+    "precio":"39.99",
+    "moneda":"€"
+},{
+    "id":"8",
+    "titulo":"SPYRO REIGNITED TRILOGY",
+    "imagen":"SpyroReignited.jpg",
+    "genero":"Aventura, Multiplataforma",
+    "descripcion":"¡El maestro de los asados está de vuelta! Mismas llamaradas, misma actitud abrasadora, pero mejorado y en alta definición. Spyro viene a toda mecha como nunca antes en la colección de Spyro Reignited Trilogy.",
+    "precio":"29.99",
+    "moneda":"€"
+},
+{
+    "id":"9",
+    "titulo":"HOLLOW KNIGHT",
+    "imagen":"HollowKnight.jpg",
+    "genero":"Aventura, 2D",
+    "descripcion":"Bajo la deteriorada ciudad de Bocasucia yace un antiguo reino en ruinas. A muchos les atrae la vida bajo la superficie y van en busca de riquezas, gloria o respuestas a viejos enigmas.  Como el enigmático Hollow Knight, atravesarás las profundidades, desentrañarás sus misterios y vencerás sus males.",
+    "precio":"34.99",
+    "moneda":"€"
+},
+{
+    "id":"10",
+    "titulo":"RAYMAN LEGENDS: DEFINITIVE EDITION",
+    "imagen":"RaymanLegends.jpg",
+    "genero":"Aventura, Plataformas",
+    "descripcion":"Rayman, Globox y los Diminutos deambulan por un bosque encantado cuando descubren una misteriosa tienda llena de cuadros cautivadores. Al mirar más de cerca, se dan cuenta de que cada cuadro parece contar la historia de un mundo mítico diferente.",
+    "precio":"29.99",
+    "moneda":"€"
+},{
+    "id":"11",
+    "titulo":"PIKMIN 4",
+    "imagen":"Pikmin.jpg",
+    "genero":"Acción, Estrategia",
+    "descripcion":"¡Los Pikmin regresan para emprender otra gran misión en Pikmin 4 para Nintendo Switch! Estos diminutos seres, similares a las plantas, habitan un misterioso planeta. Hazlos crecer, arráncalos del suelo y dales órdenes mientras recorres a su lado este nuevo mundo.",
+    "precio":"59.99",
+    "moneda":"€"
+},
+{
+    "id":"12",
+    "titulo":"ANIMAL CROSSING: NEW HORIZONS",
+    "imagen":"AnimalCrossing.jpg",
+    "genero":"Multijugador, Simulación",
+    "descripcion":"Escapa a una isla desierta y crea tu propio paraíso mientras exploras, creas y personalizas en el juego Animal Crossing: New Horizons. Tu isla cuenta con riquezas naturales que podrás utilizar para construir de todo, desde herramientas hasta objetos que harán tu vida más placentera. Podrás cazar insectos al amanecer, decorar tu pequeño paraíso durante el día o disfrutar del atardecer en la playa mientras pescas en el océano. La hora del día y la estación coinciden con las de la vida real, así que cada día en la isla es una oportunidad para encontrar y descubrir sorpresas.",
+    "precio":"49.99",
+    "moneda":"€"
+},
+{
+    "id":"13",
+    "titulo":"THE LEGEND OF ZELDA: TEARS OF THE KINGDOM",
+    "imagen":"ZeldaTearsOfKingdom.jpg",
+    "genero":"Aventura, Acción, Rol",
+    "descripcion":"Únete a Link en una nueva aventura donde no solo seguirás explorando la basta tierra de Hyrule sino que en esta entrega irás hasta el cielo y más allá. Esta vez Link tendrá que escalar hasta las alturas nunca antes vistas, en esta entrega se da una alta importancia al exploración de forma vertical.",
+    "precio":"69.99",
+    "moneda":"€"
+},
+{
+    "id":"14",
+    "titulo":"BAYONETTA ORIGINS CEREZA AND THE LOST DEMON",
+    "imagen":"Bayonetta.jpg",
+    "genero":"Aventura, Plataformas",
+    "descripcion":"La acompañaba Cheshire, un peluche poseído por el que sería su primer demonio. Juega como Cereza y Cheshire, y recorre este bosque traicionero en busca del poder para salvar a la madre de Cereza.",
+    "precio":"29.99",
+    "moneda":"€"
+},
+{
+    "id":"15",
+    "titulo":"DRAGON QUEST TREASURES",
+    "imagen":"DragonQuest.jpg",
+    "genero":"Aventura, Rol",
+    "descripcion":"Erik y su hermana, Mía, viven en un drakkar y sueñan con salir a explorar el mundo en busca de grandes tesoros. Una noche, encuentran a un par de criaturas sobrenaturales, Porcus y Púrsula, y acaban apareciendo en un lugar misterioso llamado Draconia, una tierra legendaria repleta de tesoros que encontrar. ¡Por fin comienza la aventura con la que Erik y Mía siempre habían soñado! Para explorar el enorme mundo de Draconia y encontrar montones de tesoros, Erik, Mía y sus adorables compañeros necesitarán ayuda. El grupo no tardará en reclutar y entablar amistad con monstruos de lo más variopintos.",
+    "precio":"49.99",
+    "moneda":"€"
+},
+{
+    "id":"16",
+    "titulo":"HOGWARTS LEGACY",
+    "imagen":"HowgartsLegacy.jpg",
+    "genero":"Rol",
+    "descripcion":"Hogwarts Legacy es un juego de rol inmersivo en mundo abierto que se inspira de los libros de la saga Harry Potter. Disfruta del Hogwarts del siglo XIX. Tu personaje es un alumno o alumna del famoso colegio que tiene la clave de un antiguo secreto que amenaza con destruir el mundo mágico. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico. El legado está en tus manos.",
+    "precio":"59.99",
+    "moneda":"€"
+},
+{
+    "id":"17",
+    "titulo":"SUPER MARIO PARTY",
+    "imagen":"SuperMarioParty.jpg",
+    "genero":"Tablero, Familia",
+    "descripcion":"¡Prepárate para participar en el juego de mesa más divertido del mundo con tus amigos del Reino Champiñón! ¡Tira los dados para moverte por el tablero! Cuando caigas en una casilla, se activará un evento especial, como, por ejemplo, un minijuego.",
+    "precio":"59.99",
+    "moneda":"€"
+},
+{
+    "id":"18",
+    "titulo":"SPLATOON 3",
+    "imagen":"Splatoon.jpg",
+    "genero":"Acción",
+    "descripcion":"Te damos la bienvenida a Tintelia, en la abrasadora región de Tintelia, ¡donde te esperan nuevas armas, habilidades, escenarios e indumentaria de lo más novedoso! Enfréntate a rivales en combates en línea a tope de tinta, repele ofensivas de salmónidos y evita una invasión de octarianos.",
+    "precio":"59.99",
+    "moneda":"€"
+},
+{
+    "id":"19",
+    "titulo":"OCTOPATH TRAVELER II",
+    "imagen":"OctophathTraveler.jpg",
+    "genero":"Aventura, Rol",
+    "descripcion":"Elige de entre ocho viajantes: cada cual tiene su propio pasado, propósitos y habilidades únicas. Los característicos gráficos HD-2D de la saga, junto a una combinación de pixel art tradicional y 3DCG, han alcanzado nuevas cotas de diseño.  La historia de este juego transcurre en Solistia, donde conviven todo tipo de culturas de este a oeste en plena prosperidad industrial. Recorre el océano y explora cada confín allende los mares, mientras el día y la noche se entrelazan de forma visible.",
+    "precio":"59.99",
+    "moneda":"€"
+},
+{
+    "id":"20",
+    "titulo":"CELESTE",
+    "imagen":"Celeste.jpg",
+    "genero":"Aventura, Plataformas",
+    "descripcion":"Ayuda a Madeline a sobrevivir a los demonios de su interior en su viaje a la cima de la montaña Celeste en este cuidadísimo plataformas diseñado a mano por los creadores del clásico multijugador TowerFall.",
+    "precio":"49.99",
+    "moneda":"€"
+}
+]
